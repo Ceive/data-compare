@@ -1,0 +1,15 @@
+{
+    "name": "ceive/data-compare",
+    "description": "...",
+    "type": "library",
+    "license": "Apache 2.0",
+    "minimum-stability": "dev",
+  "require": {
+	"ceive/value": "dev-master"
+  },
+    "autoload" : {
+	  "psr-4": {
+		"Ceive\\Data\\": "src/"
+	  }
+	}
+}
